@@ -1,1 +1,1 @@
-# Pharma-Manager-Pro-Hospital
+# PakEpos-HMS-Pro
